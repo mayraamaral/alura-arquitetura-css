@@ -6,3 +6,4 @@ Projeto do curso de Arquitetura CSS da Alura.
 
 - [Layout Figma do projeto](https://www.figma.com/file/0gMF5BPgplPYqQA6Om1T1sk9/alura-bootstrap?node-id=0%3A1)
 - [Repositório da Alura](https://github.com/alura-cursos/arquitetura-css)
+- [Atomic Design - Conceito de Design System abordado](https://atomicdesign.bradfrost.com/chapter-2/)
