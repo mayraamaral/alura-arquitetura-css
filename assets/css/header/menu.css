@@ -1,0 +1,23 @@
+.menu-lista {
+  display: flex;
+  gap: 1.25rem;
+}
+
+.menu-item {
+  list-style-type: none;
+}
+
+.menu-item:first-child {
+  color: #333333;
+  font-weight: bold;
+}
+
+.menu-link {
+  text-decoration: none;
+  color: #808080;
+  text-transform: lowercase;
+}
+
+.menu-link:hover {
+  text-decoration: underline;
+}

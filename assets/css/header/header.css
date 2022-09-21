@@ -1,0 +1,9 @@
+@import url('./menu.css');
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #f9f9f9;
+  padding: 0 2rem;
+}

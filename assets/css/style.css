@@ -1,31 +1,3 @@
-.header {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  background-color: #f9f9f9;
-  padding: 0 2rem;;
-}
-
-.menu-lista {
-  display: flex;
-  gap: 1.25rem;
-}
-
-.menu-item {
-  list-style-type: none;
-}
-
-.menu-item:first-child {
-  color: #333333;
-  font-weight: bold;
-}
-
-.menu-link {
-  text-decoration: none;
-  color: #808080;
-  text-transform: lowercase;
-}
-
-.menu-link:hover {
-  text-decoration: underline;
-}
+@import url('./header/header.css');
+@import url('./banner/banner.css');
+@import url('./about/about.css');
